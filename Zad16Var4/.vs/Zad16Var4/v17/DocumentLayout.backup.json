@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VulpesInculta\\Desktop\\progrev\\Zad16Var4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C046DED-161E-4429-AE2D-B6AB12B4E25B}|BundleTest\\BundleTest.csproj|c:\\users\\vulpesinculta\\desktop\\progrev\\zad16var4\\bundletest\\bundletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C046DED-161E-4429-AE2D-B6AB12B4E25B}|BundleTest\\BundleTest.csproj|solutionrelative:bundletest\\bundletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C229C6FD-FA4C-4DF8-B9B2-7E17A30EA4F2}|Zad16Var4\\Zad16Var4.csproj|c:\\users\\vulpesinculta\\desktop\\progrev\\zad16var4\\zad16var4\\banknote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C229C6FD-FA4C-4DF8-B9B2-7E17A30EA4F2}|Zad16Var4\\Zad16Var4.csproj|solutionrelative:zad16var4\\banknote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C229C6FD-FA4C-4DF8-B9B2-7E17A30EA4F2}|Zad16Var4\\Zad16Var4.csproj|c:\\users\\vulpesinculta\\desktop\\progrev\\zad16var4\\zad16var4\\bundle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C229C6FD-FA4C-4DF8-B9B2-7E17A30EA4F2}|Zad16Var4\\Zad16Var4.csproj|solutionrelative:zad16var4\\bundle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BundleTests.cs",
+              "DocumentMoniker": "C:\\Users\\VulpesInculta\\Desktop\\progrev\\Zad16Var4\\BundleTest\\BundleTests.cs",
+              "RelativeDocumentMoniker": "BundleTest\\BundleTests.cs",
+              "ToolTip": "C:\\Users\\VulpesInculta\\Desktop\\progrev\\Zad16Var4\\BundleTest\\BundleTests.cs",
+              "RelativeToolTip": "BundleTest\\BundleTests.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwHoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:05:35.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banknote.cs",
+              "DocumentMoniker": "C:\\Users\\VulpesInculta\\Desktop\\progrev\\Zad16Var4\\Zad16Var4\\Banknote.cs",
+              "RelativeDocumentMoniker": "Zad16Var4\\Banknote.cs",
+              "ToolTip": "C:\\Users\\VulpesInculta\\Desktop\\progrev\\Zad16Var4\\Zad16Var4\\Banknote.cs",
+              "RelativeToolTip": "Zad16Var4\\Banknote.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:41:14.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bundle.cs",
+              "DocumentMoniker": "C:\\Users\\VulpesInculta\\Desktop\\progrev\\Zad16Var4\\Zad16Var4\\Bundle.cs",
+              "RelativeDocumentMoniker": "Zad16Var4\\Bundle.cs",
+              "ToolTip": "C:\\Users\\VulpesInculta\\Desktop\\progrev\\Zad16Var4\\Zad16Var4\\Bundle.cs",
+              "RelativeToolTip": "Zad16Var4\\Bundle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:12:15.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
